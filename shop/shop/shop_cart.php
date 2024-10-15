@@ -81,4 +81,4 @@ $result = $db->sel_cart($_SESSION['id']);
 
 </body>
 </html>
-<script src="cart.j"></script>
+<script src="cart.js"></script>
