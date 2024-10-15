@@ -1,0 +1,36 @@
+table {
+    direction: rtl;
+    border-collapse: collapse;
+    width: 100%;
+    border: 2px solid rgb(179, 179, 179);
+}
+tr{
+    font: 400 15px/1.2 "IRANYekanMedium", Helvetica, Arial, serif;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+th{
+    font-size: 25px;
+    color: #ffffff;
+}
+
+td{
+    text-align: center;
+}
+
+tr, table, td, th {
+    border: 2px solid rgb(255, 255, 255);
+}
+
+tr{
+    transition: background-color 0.2s;
+}
+tr:hover{
+    background-color: #dadada;
+}
+
+.edit-delete {
+    cursor: pointer;
+    width: 80px;
+}

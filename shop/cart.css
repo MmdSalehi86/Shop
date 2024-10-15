@@ -1,0 +1,38 @@
+body {
+    background-image: url("bac.jpg");
+    background-size: cover;
+    user-select: none;
+}
+h1{
+    font: 400 48px/1.2 "IRANYekanExtraBold", Helvetica, Arial, serif;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    background: linear-gradient(98deg, #FCD2D2 0%, #DBB2B2 62.36%, #931715 124.72%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position: relative;
+    right: 80px;
+}
+.b2{
+    color: #DBB2B2;
+    font: 400 18px/1.2 "IRANYekanMedium", Helvetica, Arial, serif;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border: 0px;
+    border-radius: 12px;
+    background: #6B4D4E;
+    width: 86px;
+    height: 45px;
+    position: absolute;
+    left: 80px;
+    top: 72px;
+}
+tr{
+    font: 400 18px/1.2 "IRANYekanMedium", Helvetica, Arial, serif;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}

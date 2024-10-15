@@ -1,0 +1,139 @@
+body {
+    background-image: url("./bac.jpg");
+    background-size: cover;
+    user-select: none;
+}
+
+h1 {
+    font: 400 48px/1.2 "IRANYekanExtraBold", Helvetica, Arial, serif;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    background: linear-gradient(98deg, #FCD2D2 0%, #DBB2B2 62.36%, #931715 124.72%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position: absolute;
+    right: 80px;
+}
+
+.button1 {
+    color: #DBB2B2;
+    font: 400 18px/1.2 "IRANYekanMedium", Helvetica, Arial, serif;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border: 0px;
+    background-color: transparent;
+    position: absolute;
+    right: 450px;
+    top: 74px;
+}
+
+.button10 {
+    color: #DBB2B2;
+    font: 400 18px/1.2 "IRANYekanMedium", Helvetica, Arial, serif;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border: 0px;
+    background-color: transparent;
+    position: absolute;
+    right: 610px;
+    top: 74px;
+}
+
+.button11 {
+    color: #DBB2B2;
+    font: 400 18px/1.2 "IRANYekanMedium", Helvetica, Arial, serif;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border: 0px;
+    background-color: transparent;
+    position: absolute;
+    right: 805px;
+    top: 74px;
+}
+
+.button2 {
+    color: #DBB2B2;
+    font: 400 18px/1.2 "IRANYekanMedium", Helvetica, Arial, serif;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border: 0px;
+    border-radius: 12px;
+    background: #6B4D4E;
+    width: 86px;
+    height: 45px;
+    position: absolute;
+    left: 80px;
+    top: 72px;
+}
+
+.d1 {
+    position: absolute;
+    top: 180px;
+    left: 80px;
+    font: 400 12px/1.2 "IRANYekanMedium", Helvetica, Arial, serif;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    color: rgb(201, 201, 201);
+    text-align: right;
+}
+
+.d2 {
+    border: 0px;
+    border-radius: 24px;
+    background: linear-gradient(117deg, #3D64ED 0%, #06148A 100%);
+    width: 260px;
+    height: 160px;
+    position: absolute;
+    top: 25px;
+    left: 30px;
+}
+
+.d3 {
+    border: 0px;
+    border-radius: 24px;
+    background: linear-gradient(117deg, #E12D2A 0%, #8A0806 100%);
+    width: 260px;
+    height: 160px;
+    position: absolute;
+    top: 25px;
+    left: 315px;
+}
+
+.d4 {
+    border: 0px;
+    border-radius: 24px;
+    background: linear-gradient(116deg, #36C833 0%, #0F850D 95.16%);
+    width: 260px;
+    height: 160px;
+    position: absolute;
+    top: 210px;
+    left: 315px;
+}
+
+.d5 {
+    border: 0px;
+    border-radius: 24px;
+    background: linear-gradient(117deg, #D3E12A 0%, #938400 100%);
+    width: 260px;
+    height: 160px;
+    position: absolute;
+    top: 210px;
+    left: 30px;
+}
+span{
+    position: relative;
+    right: 15px;
+}
+img{
+    position: absolute;
+    width: 432px;
+    height: 410px;
+    left: 770px;top: 150px;
+}

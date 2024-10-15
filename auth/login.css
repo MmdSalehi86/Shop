@@ -1,0 +1,119 @@
+body {
+    background-image: url("./background.jpg");
+    background-size: cover;
+    user-select: none;
+}
+
+.d1 {
+    width: 350px;
+    height: 410px;
+    left: 500px;
+    top: 60px;
+    position: absolute;
+}
+
+.d2 {
+    width: 350px;
+    height: 410px;
+    left: 0px;
+    top: 89px;
+    position: absolute;
+    background: #E0D5D5;
+    border-radius: 48px;
+    box-shadow: 0px 0px 10px #302d2d;
+}
+
+.d3 {
+    width: 150px;
+    height: 150px;
+    left: 100px;
+    top: 15px;
+    position: absolute;
+    background: #E0D5D5;
+    border-radius: 97px;
+    z-index: 1;
+}
+
+.svg1 {
+    width: 150px;
+    height: 150px;
+    left: 100px;
+    top: 15px;
+}
+
+.title {
+    text-align: center;
+    color: #921715;
+    font: 400 68px/1.2 "IRANYekanExtraBold", Helvetica, Arial, serif;
+    font-weight: 800;
+    word-wrap: break-word;
+}
+
+.in1 {
+    text-align: right;
+    border: 0px;
+    border-radius: 14px;
+    background: linear-gradient(0deg, #E4E4E4 0%, #E4E4E4 100%), #DCD6D6;
+    margin-left: 28px;
+    margin-top: -20px;
+    box-shadow: -4px -4px 12px 0px rgba(253, 255, 255, 0.80) inset, 4px 4px 12px 0px rgba(187, 195, 206, 0.60) inset;
+    width: 290px;
+    height: 45px;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
+    display: inline-flex;
+    color: #921715;
+    font: 400 12px/1.2 "IRANYekanRegular", Helvetica, Arial, serif;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1px;
+}
+
+.in2 {
+    text-align: right;
+    border: 0px;
+    border-radius: 14px;
+    background: linear-gradient(0deg, #E4E4E4 0%, #E4E4E4 100%), #DCD6D6;
+    margin-left: 28px;
+    margin-top: 12px;
+    box-shadow: -4px -4px 12px 0px rgba(253, 255, 255, 0.80) inset, 4px 4px 12px 0px rgba(187, 195, 206, 0.60) inset;
+    width: 290px;
+    height: 45px;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
+    display: inline-flex;
+    color: #921715;
+    font: 400 12px/1.2 "IRANYekanRegular", Helvetica, Arial, serif;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1px;
+}
+
+.btn {
+    color: #921715;
+    text-align: center;
+    border: 0px;
+    width: 85px;
+    height: 50px;
+    margin-left: 130px;
+    margin-top: 20px;
+    background: #CA4D4B;
+    border-radius: 17px;
+    font: 400 15px/1.2 "IRANYekanMedium", Helvetica, Arial, serif;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    letter-spacing: 1px;
+    word-wrap: break-word;
+}
+
+a {
+    text-decoration: underline;
+    margin-left: 93px;
+    margin-top: 20px;
+    font: 400 13px/1.2 "IRANYekanMedium", Helvetica, Arial, serif;
+}
